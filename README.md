@@ -3,6 +3,6 @@
 
 Product page with slider product with CSS animation
 
-<span style="font-weight: bold;"Demo <a href="https://tasarre.github.io/sneaker-landing-page/.">here</a></span>
+<strong>"Demo <a href="https://tasarre.github.io/sneaker-landing-page/.">here</a></strong>
 
 <img src="assets/img/screenshot.png">
