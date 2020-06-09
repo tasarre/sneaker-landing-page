@@ -3,4 +3,4 @@
 
 Product page with slider product with CSS animation
 
-<img scr="assets/img/screenshot.png">
+<img src="assets/img/screenshot.png">
